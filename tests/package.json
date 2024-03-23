@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "ava": "^6.1.2",
+    "chai": "^5.1.0"
+  }
+}
